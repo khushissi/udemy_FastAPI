@@ -1,0 +1,3 @@
+DEV_DATABASE_URL = postgresql+psycopy2://postgres:postgres@123.0.0.1:5433/inventory
+POSTGRES_USER = postgres
+POSTGRES_PASSWORD = postgres

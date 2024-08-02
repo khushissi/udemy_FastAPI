@@ -1,0 +1,11 @@
+{
+    "[pytho]" : {
+        "editor.formatOnSave" : true,
+        "editor.codeActionOnSave" : {
+            "source.fixAll" : "explicit",
+            "source.organizeImport" : "explicit",
+        },
+        "editor.defaultFormatter" : "charliermarsh.ruff"
+    },
+    "editor.rulers" : [88]
+}
